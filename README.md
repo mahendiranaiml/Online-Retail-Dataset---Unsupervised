@@ -123,15 +123,6 @@ This segmentation clearly reflects the **Pareto Principle (80/20 Rule)**.
 
 ---
 
-## 🚀 Future Improvements
-
-- Deploy interactive dashboard
-- Apply hierarchical clustering comparison
-- Use CLV (Customer Lifetime Value) modeling
-- Build automated marketing strategy recommendations
-
----
-
 ## 📌 Conclusion
 
 Using RFM and K-Means clustering, we successfully identified meaningful customer segments with strong separation (Silhouette Score = 0.61).  
@@ -140,4 +131,3 @@ This project demonstrates how unsupervised learning can drive actionable busines
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
